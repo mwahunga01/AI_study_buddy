@@ -1,0 +1,14 @@
+{
+  "name": "ai-study-buddy",
+  "version": "1.0.0",
+  "description": "AI-powered flashcard generator",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Build complete - static HTML app'",
+    "preview": "npx serve ."
+  },
+  "keywords": ["flashcards", "ai", "study"],
+  "author": "",
+  "license": "MIT"
+}
